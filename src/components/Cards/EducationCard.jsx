@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import SchoolIcon from '@mui/icons-material/School';
+import Image from "../../images";
 
 const Document = styled.img`
     display: none;
@@ -143,7 +144,7 @@ const EducationIcon = styled.div`
     height: 40px;
     min-width: 40px;
   }
-`;
+`
 
 const EducationCard = ({ education }) => {
     return (
