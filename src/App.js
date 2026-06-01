@@ -28,13 +28,13 @@ const Wrapper = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
 function App() {
-  const [darkMode] = useState(true);
-  // const [darkMode, setDarkMode] = useState(true);
+  // const [darkMode] = useState(true);
+  const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (
-    // <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-    <ThemeProvider >
+    <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
+
       <Router >
         <Navbar />
         <Body>
