@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import SchoolIcon from '@mui/icons-material/School';
-import Image from "../../images";
+// import Image from "../../images";
 
 const Document = styled.img`
     display: none;
@@ -75,15 +75,15 @@ const Top = styled.div`
     gap: 12px
 `
 
-const Image = styled.img`
-    height: 50px;
-    background-color: #000;
-    border-radius: 10px;
-    margin-top: 4px;
-    @media only screen and (max-width: 768px){
-        height: 40px;
-    }
-`
+// const Image = styled.img`
+//     height: 50px;
+//     background-color: #000;
+//     border-radius: 10px;
+//     margin-top: 4px;
+//     @media only screen and (max-width: 768px){
+//         height: 40px;
+//     }
+// `
 
 const Body = styled.div`
     width: 100%;
