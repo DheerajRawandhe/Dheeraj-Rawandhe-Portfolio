@@ -40,6 +40,7 @@ export const Bio = {
   insta: "https://www.instagram.com/_dheeraj._18",
   facebook: "https://www.facebook.com/dheeraj.rawandhe.5",
   leetcode: "https://leetcode.com/u/DheerajR0635/",
+  github: "https://github.com/DheerajRawandhe/",
 };
 
 export const skills = [

@@ -15,6 +15,7 @@ import Education from "./components/Education";
 import Certifications from "./components/Certifications";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import Learnings from "./components/Learnings/Learnings.jsx";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -46,6 +47,7 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <Wrapper>
             <Education />
+            <Learnings />
             <Certifications />
             <Contact />
           </Wrapper>
