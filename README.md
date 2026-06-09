@@ -23,7 +23,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 * Material UI
 * Bootstrap
 
-## 🎯 Purpose :
+## 🎯 Purpose :-
 This portfolio serves as a central place to showcase my work, highlight my skills, and connect with potential recruiters, collaborators, and clients.
 
 ## 📬 Contact
