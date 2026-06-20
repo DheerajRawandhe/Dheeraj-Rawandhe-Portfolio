@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 ## 🚀 Live Demo :-
 🔗 Portfolio: https://dheeraj-rawandhe-portfolio.netlify.app/
 
-## ✨ Features
+## ✨ Features :
 * Responsive design for all devices
 * Clean and modern UI
 * About Me section
